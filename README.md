@@ -6,6 +6,7 @@
 * [Git](https://github.com/softnshare/devtools/tree/master/git)
 
 ## 開發工具
+* [Atom](https://github.com/softnshare/devtools/tree/master/atom)
 * [Visual Studio Code](https://github.com/softnshare/devtools/tree/master/vscode)
 
 ## 編輯器
