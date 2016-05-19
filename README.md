@@ -3,4 +3,4 @@
 各種開發工具分享
 
 ##版本控制
-* [Git](https://github.com/softnshare/git)
+* [Git](https://github.com/softnshare/devtools/tree/master/git)
