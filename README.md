@@ -1,6 +1,6 @@
 # devtools 開發工具知識管理共筆
 
-各種開發工具分享
+各種開發工具Howtos, 筆記等整理
 
 ##版本控制
 * [Git](https://github.com/softnshare/devtools/tree/master/git)
