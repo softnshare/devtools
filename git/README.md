@@ -31,6 +31,7 @@
   - [grumphp - A PHP code-quality tool](https://github.com/phpro/grumphp/)
   
 - Git與工作流程
+  - [Git rebase -i](http://www.slideshare.net/cha122977/git-rebase-i)
   - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
   - [成功的Git分支模式](http://blog.buginception.com/blog/2012/10/13/recap-git-branching-model/)
   - [Git: Using the stash](https://ariejan.net/2008/04/23/git-using-the-stash/)
