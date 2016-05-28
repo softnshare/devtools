@@ -1,6 +1,6 @@
 # devtools 開發工具知識管理共筆
 
-各種開發工具Howtos, 筆記等整理
+各種開發工具Howtos, 筆記等整理, 加入Slack討論, 請參考[DevTools 網頁說明](https://goo.gl/pBVVy3)
 
 ##版本控制
 * [Git](https://github.com/softnshare/devtools/tree/master/git)
