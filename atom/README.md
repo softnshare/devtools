@@ -13,6 +13,7 @@
 	加強comment的套件
 	* [remote-ftp](https://atom.io/packages/remote-ftp)
 	連到FTP伺服器，存檔直接上傳檔案
+        * [Atom IDE support for flow](https://github.com/lukehoban/atom-ide-flow)
 
 
 * HowTos
