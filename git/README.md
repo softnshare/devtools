@@ -12,6 +12,7 @@
   
 - Git command 加強
   - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+  - [gitsome](https://github.com/donnemartin/gitsome)
   
 - Git Client
   - Mac
@@ -41,6 +42,7 @@
 - GitHub應用
   - [放履歷表](https://github.com/deedy/Deedy-Resume)
   - [用Issue寫Blog範例](http://www.evanlin.com/about-blog-on-github-issue/)
+  - [Github as your startup’s Knowledge Base](https://medium.com/translate-engineer-error/github-as-your-startups-knowledge-base-650855a7977c#.nxysj32kj)
   
 - Git雲端服務
   - [Bitbucket](https://bitbucket.org/)
